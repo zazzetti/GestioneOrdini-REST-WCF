@@ -66,8 +66,8 @@ namespace GestioneOrdini.REST.Controllers
 
 
 
-        [HttpPut] 
-        public ActionResult UpdateOrdine( [FromBody] Ordine ordine)
+        [HttpPut]
+        public ActionResult UpdateOrdine([FromBody] Ordine ordine)
         {
             if (ordine == null) return BadRequest();
 
@@ -76,6 +76,7 @@ namespace GestioneOrdini.REST.Controllers
             return Ok();
 
         }
+
 
         [HttpPost]
         public ActionResult CreateNewOrdine([FromBody] Ordine newOrdine)
@@ -88,7 +89,9 @@ namespace GestioneOrdini.REST.Controllers
 
         }
 
+       
 
 
-}
+
+    }
 }

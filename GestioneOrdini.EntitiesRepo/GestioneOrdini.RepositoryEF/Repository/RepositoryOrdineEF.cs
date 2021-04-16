@@ -101,6 +101,7 @@ namespace GestioneOrdini.RepositoryEF.Repository
                 if (ordine==null || cliente == null) return false;
 
                 ordine.Cliente = cliente;
+                ordine.Importo = item.Importo;
                 ordine.DataOrdine = item.DataOrdine;
                 ordine.CodiceProdotto = item.CodiceProdotto;
 
