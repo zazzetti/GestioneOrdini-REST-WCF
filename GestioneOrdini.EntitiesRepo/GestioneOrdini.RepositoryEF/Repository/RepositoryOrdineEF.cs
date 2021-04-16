@@ -94,7 +94,7 @@ namespace GestioneOrdini.RepositoryEF.Repository
         {
             try
             {
-                var ordine = ctx.Ordini.FirstOrDefault(o => o.CodiceOrdine==item.CodiceOrdine);
+                var ordine = ctx.Ordini.Include(c=>c.Cliente).FirstOrDefault(o => o.CodiceOrdine==item.CodiceOrdine);
                 var cliente = ctx.Clienti.FirstOrDefault(c => c.CodiceCliente == item.Cliente.CodiceCliente);
 
                 ordine.Cliente = cliente;
