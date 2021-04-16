@@ -1,0 +1,9 @@
+C:\Users\elena.zazzetti\Desktop\ElenaZazzetti\GestioneOrdini.EntitiesRepo\GestioneOrdini.EntitiesRepo\bin\Debug\netstandard2.0\GestioneOrdini.EntitiesRepo.deps.json
+C:\Users\elena.zazzetti\Desktop\ElenaZazzetti\GestioneOrdini.EntitiesRepo\GestioneOrdini.EntitiesRepo\bin\Debug\netstandard2.0\GestioneOrdini.EntitiesRepo.dll
+C:\Users\elena.zazzetti\Desktop\ElenaZazzetti\GestioneOrdini.EntitiesRepo\GestioneOrdini.EntitiesRepo\bin\Debug\netstandard2.0\GestioneOrdini.EntitiesRepo.pdb
+C:\Users\elena.zazzetti\Desktop\ElenaZazzetti\GestioneOrdini.EntitiesRepo\GestioneOrdini.EntitiesRepo\obj\Debug\netstandard2.0\GestioneOrdini.EntitiesRepo.csprojAssemblyReference.cache
+C:\Users\elena.zazzetti\Desktop\ElenaZazzetti\GestioneOrdini.EntitiesRepo\GestioneOrdini.EntitiesRepo\obj\Debug\netstandard2.0\GestioneOrdini.EntitiesRepo.AssemblyInfoInputs.cache
+C:\Users\elena.zazzetti\Desktop\ElenaZazzetti\GestioneOrdini.EntitiesRepo\GestioneOrdini.EntitiesRepo\obj\Debug\netstandard2.0\GestioneOrdini.EntitiesRepo.AssemblyInfo.cs
+C:\Users\elena.zazzetti\Desktop\ElenaZazzetti\GestioneOrdini.EntitiesRepo\GestioneOrdini.EntitiesRepo\obj\Debug\netstandard2.0\GestioneOrdini.EntitiesRepo.csproj.CoreCompileInputs.cache
+C:\Users\elena.zazzetti\Desktop\ElenaZazzetti\GestioneOrdini.EntitiesRepo\GestioneOrdini.EntitiesRepo\obj\Debug\netstandard2.0\GestioneOrdini.EntitiesRepo.dll
+C:\Users\elena.zazzetti\Desktop\ElenaZazzetti\GestioneOrdini.EntitiesRepo\GestioneOrdini.EntitiesRepo\obj\Debug\netstandard2.0\GestioneOrdini.EntitiesRepo.pdb
