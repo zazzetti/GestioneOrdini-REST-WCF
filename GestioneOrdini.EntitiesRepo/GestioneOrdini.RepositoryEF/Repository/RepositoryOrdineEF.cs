@@ -20,6 +20,8 @@ namespace GestioneOrdini.RepositoryEF.Repository
             try
             {
                 var cliente = ctx.Clienti.FirstOrDefault(c => c.CodiceCliente == item.Cliente.CodiceCliente);
+                if (cliente == null) return false;
+
                 item.Cliente = cliente;
                 ctx.Ordini.Add(item);
                 ctx.SaveChanges();
